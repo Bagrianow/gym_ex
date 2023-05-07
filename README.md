@@ -4,4 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Project contains Javascript / React / tailwind / API
 
->> adasgym.netlify.app
+>> www.adasgym.netlify.app <<
